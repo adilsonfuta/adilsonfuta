@@ -1,5 +1,5 @@
 
-<img align="rigth" width="800" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">
+<img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">
 
 # Hi, Welcome to my Profile!
 
