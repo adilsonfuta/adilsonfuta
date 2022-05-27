@@ -1,18 +1,16 @@
 
 <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">
 
-# Hi, Welcome to my Profile!
+# Hi, I'm ADILSON FUTA (Software Engineer and Open Banking Specialist )
 
-## I'm ADILSON FUTA (Software Engineer)
+## Skills: Fullstack Developer, Linux Administrator, DevOps Master, Open Banking Specialist and Teacher. 
 
-### Fullstack Developer, Linux Administrator, DevOps Master and Teacher
+#### 🔭 I’m currently working with Nest.js | Nodejs | React | ReactNative.
+####  🌱 I’m currently learning: Angular | Django (Python) | DataScience | Artificial Intelligence.
+####  💬 goals achieved Linux: AZUREDEVOPS| NEXUS, Travis CI, Become a FULLCYCLE.
+####  😄 Language: Portuguese, English, Spanish
 
-- 🔭 I’m currently working on Nodejs | React | ReactNative and PHP
-- 🌱 I’m currently learning: Angularjs | Django (Python) | DataScience | Artificial Intelligence 
-- 💬 goals achieved Linux: Ansible | Jenkins, Travis CI, etc.
-- 😄 Language: Portuguese, English, Spanish
-
-## About me ...
+#### About me ...
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GentilPinto)](https://github.com/adilsonfuta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/)](https://www.linkedin.com/in/adilson-maria-52b534197/)
