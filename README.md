@@ -10,6 +10,12 @@
 ####  💬 goals achieved Linux: AZUREDEVOPS| NEXUS, Travis CI, Become a FULLCYCLE.
 ####  😄 Language: Portuguese, English, Spanish
 
+  <div>
+  <a href="https://github.com/adilsonfuta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilsonfuta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonfuta&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 #### About me ...
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GentilPinto)](https://github.com/adilsonfuta)
