@@ -1,14 +1,14 @@
 
 <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">
 
-# Hi, I'm ADILSON FUTA (Software Engineer and Open Banking Specialist )
+# ADILSON FUTA (Fullcycle Engineer & Open Banking Specialist )
 
-## Skills: Fullstack Developer, Linux Administrator, DevOps Master, Open Banking Specialist and Teacher. 
+### Skills: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
 
-#### 🔭 I’m currently working with Nest.js | Nodejs | React | ReactNative.
-####  🌱 I’m currently learning: Angular | Django (Python) | DataScience | Artificial Intelligence.
-####  💬 goals achieved Linux: AZUREDEVOPS| NEXUS, Travis CI, Become a FULLCYCLE.
-####  😄 Language: Portuguese, English, Spanish
+##### 🔭 I’m currently working with Nest.js | Nodejs | React | ReactNative.
+#####  🌱 I’m currently learning: Angular | Django (Python) | DataScience | Artificial Intelligence.
+#####  💬 goals achieved Linux: AZUREDEVOPS| NEXUS, Travis CI, Become a FULLCYCLE.
+#####  😄 Language: Portuguese, English, Spanish
 
   <div>
   <a href="https://github.com/adilsonfuta">
