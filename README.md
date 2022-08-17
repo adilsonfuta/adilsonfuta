@@ -3,7 +3,7 @@
 
 # ADILSON FUTA (Fullcycle Engineer & Open Banking Specialist )
 
-###Skills: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
+### SKILLS: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
 
 #### 🔭 Working with Nest.js | Nodejs | Angular |React | ReactNative | MEAN Stack.
 ####  🌱Learning: Redis | Kubernets | AI | Go lang.
