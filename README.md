@@ -3,12 +3,12 @@
 
 # ADILSON FUTA (Fullcycle Engineer & Open Banking Specialist )
 
-### Skills: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
+###Skills: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
 
-##### 🔭 I’m currently working with Nest.js | Nodejs | React | ReactNative.
-#####  🌱 I’m currently learning: Angular | Django (Python) | DataScience | Artificial Intelligence.
-#####  💬 goals achieved Linux: AZUREDEVOPS| NEXUS, Travis CI, Become a FULLCYCLE.
-#####  😄 Language: Portuguese, English, Spanish
+#### 🔭 Working with Nest.js | Nodejs | Angular |React | ReactNative | MEAN Stack.
+####  🌱Learning: Redis | Kubernets | AI | Go lang.
+#### 💬 goals: AZUREDEVOPS, Circle CICD, BlockChain.
+####  😄 Language: Portuguese, English, Spanish.
 
   <div>
   <a href="https://github.com/adilsonfuta">
