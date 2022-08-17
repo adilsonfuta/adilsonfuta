@@ -23,7 +23,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gentil.pinto.dev@gmail.com)](mailto:adilsonmariafuta@gmail.com)
 [![Github Page Badge](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/)](https://adilsonfuta.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/gentil.pinto2)](https://www.facebook.com/adilsonmariafuta/)
-
+![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1946?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 
 - Thanks for visiting. :heart:
