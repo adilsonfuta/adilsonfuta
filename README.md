@@ -1,14 +1,15 @@
 
-<img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">
 
-# ADILSON FUTA (Fullcycle Engineer & Open Banking Specialist )
 
+# MBA Software Architecture & Software Entrepreneur 
+## 💬 Language: Portuguese | English |  Spanish
 ### SKILLS: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
 
-#### 🔭 Working with Nest.js | Nodejs | Angular |React | ReactNative | MEAN Stack.
+### 🔭 Working with Nest.js | Nodejs | Angular |React | ReactNative | MEAN Stack.
+| Front-end Developer | Computing Engineer | Community Builder
 ####  🌱Learning: Redis | Kubernets | AI | Go lang.
-#### 💬 goals: AZUREDEVOPS, Circle CICD, BlockChain.
-####  😄 Language: Portuguese, English, Spanish.
+
+
 
   <div>
   <a href="https://github.com/adilsonfuta">
@@ -27,3 +28,9 @@
 
 
 - Thanks for visiting. :heart:
+
+
+<!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
+<!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
+<!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
+<!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
