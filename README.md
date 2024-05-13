@@ -6,7 +6,7 @@
 ### SKILLS: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
 
 ### 🔭 Working with Nest.js | Nodejs | Angular |React | ReactNative | MEAN Stack.
-| Front-end Developer | Computing Engineer | Community Builder
+| Fullstack Developer | Cloud Engineer | Community Builder
 ####  🌱Learning: Redis | Kubernets | AI | Go lang.
 
 
