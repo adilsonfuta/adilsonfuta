@@ -3,11 +3,8 @@
 
 # MBA Software Architecture & Software Entrepreneur 
 ## 💬 Language: Portuguese | English |  Spanish
-### SKILLS: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher. 
-
-### 🔭 Working with Nest.js | Nodejs | Angular |React | ReactNative | MEAN Stack.
-| Fullstack Developer | Cloud Engineer | Community Builder
-####  🌱Learning: Redis | Kubernets | AI | Go lang.
+## 🔭 Working with: Nest.js | Oracle Suite | Angular |React | ReactNative | MEAN Stack | WSO2 AM | Cloud Engineer
+### 🌱Learning: API GATEWAY | Kubernets | DDD patterns | Clean Architecture.
 
 
 
@@ -31,6 +28,6 @@
 
 
 <!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
-<!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
+<!-- ### SKILLS: Fullstack Developer, DevOps Master, Open Banking Specialist & Teacher.  -->
 <!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
 <!-- <img align="center" width="600" heigth="400" src="https://hackernoon.com/hn-images/1*37ABKi4XeHkEWHxlF3LIog.gif">  -->
