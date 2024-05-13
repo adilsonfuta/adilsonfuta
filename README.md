@@ -3,7 +3,7 @@
 
 # MBA Software Architecture & Software Entrepreneur 
 ## 💬 Language: Portuguese | English |  Spanish
-## 🔭 Working with: Nest.js | Oracle Suite | Angular |React | ReactNative | MEAN Stack | WSO2 AM | Cloud Engineer
+## 🔭 Skills: Nest.js | Oracle Suite | Angular | Docker | MEAN Stack | WSO2 AM | Cloud Engineer
 ### 🌱Learning: API GATEWAY | Kubernets | DDD patterns | Clean Architecture.
 
 
