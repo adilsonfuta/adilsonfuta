@@ -17,10 +17,11 @@ Sou **Adilson Futa**, engenheiro de software com mais de **7 anos de experiênci
 
 Sou fundador e líder de empresas como:
 
-- ⚙️ **Sirius® | Soluções & Tecnologia** — Grupo multidisciplinar focado em educação, transformação digital, inovação empresarial e impacto social.
+- ⚙️ **Grupo Sirius SA** — Grupo multidisciplinar focado em educação, transformação digital, inovação empresarial e impacto social.
 - 📲 **fitness.ao** — Plataforma de saúde e bem-estar com inteligência artificial, feita para ajudar angolanos a viverem com mais qualidade.
-- 🌐 **NovaDev** — Startup de desenvolvimento de software com foco em soluções inteligentes para empresas e instituições.
+- 🌐 **Sirius® | Soluções & Tecnologia** — Fabrica de Sotfware com foco em soluções inteligentes para empresas e instituições.
 - 🏫 **Academia Sirius** — Centro de formação e capacitação em tecnologia, gestão e soft skills, com o objetivo de preparar líderes do futuro.
+- 🐕 **Petbook.ao** — “O ecossistema digital de cuidados para animais em Angola
 
 Sou movido por **propósito**, **excelência** e **impacto real**.
 
