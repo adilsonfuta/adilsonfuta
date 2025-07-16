@@ -48,7 +48,11 @@ PostgreSQL • MySQL • MongoDB • Redis
 # Outras Skills
 Microserviços • Clean Architecture • CI/CD • TDD • Web Scraping • SaaS • OpenAPI
 ```
-## I code with
+
+ Thanks for visiting. :heart: 
+
+<!-- 
+ ## I code with
 
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
@@ -90,4 +94,4 @@ Microserviços • Clean Architecture • CI/CD • TDD • Web Scraping • Saa
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
 
-<!-- Thanks for visiting. :heart: --> 
+--> 
